@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "com.vwo.AppTest",
+        "children" : [ {
+          "name" : "shouldAnswerWithTrue",
+          "uid" : "b779d3dd699dd5cb",
+          "parentUid" : "86598673333b8fc5d2986a240e3c7ef4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1709139471257,
+            "stop" : 1709139471301,
+            "duration" : 44
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "86598673333b8fc5d2986a240e3c7ef4"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}

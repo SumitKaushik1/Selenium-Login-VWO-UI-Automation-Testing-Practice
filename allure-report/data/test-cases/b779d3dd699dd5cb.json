@@ -1,0 +1,62 @@
+{
+  "uid" : "b779d3dd699dd5cb",
+  "name" : "shouldAnswerWithTrue",
+  "fullName" : "com.vwo.AppTest.shouldAnswerWithTrue",
+  "historyId" : "7cf9f3e2138d877619c1aa18a65bc9a3",
+  "time" : {
+    "start" : 1709139471257,
+    "stop" : 1709139471301,
+    "duration" : 44
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.vwo.AppTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.vwo.AppTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "shouldAnswerWithTrue"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.vwo.AppTest"
+  }, {
+    "name" : "host",
+    "value" : "PRITAM-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12408@PRITAM-PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b779d3dd699dd5cb.json",
+  "parameterValues" : [ ]
+}

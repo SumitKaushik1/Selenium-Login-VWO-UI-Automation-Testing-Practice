@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.vwo.AppTest",
+    "children" : [ {
+      "name" : "shouldAnswerWithTrue",
+      "uid" : "b779d3dd699dd5cb",
+      "parentUid" : "4d41d96b7257cf1d15b6bbe181b7d223",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709139471257,
+        "stop" : 1709139471301,
+        "duration" : 44
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.vwo.AppTest"
+  } ]
+}
