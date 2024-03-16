@@ -31,8 +31,9 @@ public class VWOPlatform
     public void navigateToTheURL() throws InterruptedException{
         System.setProperty("webdriver.chrome.driver","J:\\3. automation testing\\day39---Selenium full ui elements testing\\Assignment1 Answers\\chromedriver-win64\\chromedriver.exe");
         driver=new ChromeDriver();
-        driver.manage().window().maximize();
         driver.get("https://app.vwo.com/#/login");
+        driver.manage().window().maximize();
+
         String title=driver.getTitle();
         Assert.assertEquals(title,"Login - VWO","Unable to open the App");
 

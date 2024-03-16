@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="20.923">
+           time="14.884">
     <properties></properties>
 
 
 
             <testcase
                 name="loginCrdentialsInValid1"
-                time="15.639"
+                time="11.691"
                 classname="com.vwo.VWOPlatform">
             </testcase>
             <testcase
                 name="loginCrdentialsInValid2"
-                time="5.284"
+                time="3.193"
                 classname="com.vwo.VWOPlatform">
             </testcase>
 </testsuite>
