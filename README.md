@@ -1,1 +1,1 @@
-# VWOLogin-Selenium-Assignment
+# Selenium-Login-VWO-UI-Testing-Practice
