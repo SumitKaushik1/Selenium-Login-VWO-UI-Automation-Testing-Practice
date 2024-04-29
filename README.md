@@ -22,3 +22,10 @@
   - Guice: Dependency injection framework.
   - Commons Lang: Utility library for String manipulation, Number manipulation, etc.
   - Hamcrest: Framework for writing matcher objects used in tests.
+
+## This URL in a web browser to navigate to the login page of the VWO (Visual Website Optimizer) platform.
+
+````sh
+https://app.vwo.com/#/login
+`````
+
