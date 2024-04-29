@@ -1,4 +1,5 @@
-# Selenium-Login-VWO-UI-Testing-Practice
+# Selenium-Login-VWO-UI-Automation-Testing-Practice
+
 
   ## Tools:
   
@@ -29,3 +30,7 @@
 https://app.vwo.com/#/login
 `````
 
+## Test Cases
+- Test Case 1: loginCredentialsInvalid1 - To test logging into the VWO platform with  invalid credentials.
+- Test Case 2: loginCredentialsInvalid2 - To test logging into the VWO platform with another set of invalid credentials.
+               
